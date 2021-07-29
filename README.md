@@ -3,6 +3,9 @@
 1. install flask module
 -- pip install flask
 
-2. API to send the input string : http://127.0.0.1:5000/search_string?input_string=<>
+2. Execute the app.py to start the flask server.
+-- python app.py
 
-Eg: http://127.0.0.1:5000/search_string?input_string=Patriot
+3. API to send the input string : http://127.0.0.1:5000/search_string?input_string=<>
+
+   Eg: http://127.0.0.1:5000/search_string?input_string=Patriot
