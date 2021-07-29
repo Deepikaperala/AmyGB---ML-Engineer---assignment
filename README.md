@@ -1,5 +1,8 @@
 # AmyGB---ML-Engineer---assignment
 
+**Description:**
+   Flask application to search a string in the given text files using multiprocessing/multithreading techniques.
+   
 1. install flask module
 
    -- pip install flask
